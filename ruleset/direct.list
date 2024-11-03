@@ -1,11 +1,13 @@
 DOMAIN,captive.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download.developer.apple.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
+DOMAIN,metrics.icloud.com
 DOMAIN,music.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
@@ -62,5 +64,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,store.apple.com
+DOMAIN-SUFFIX,vo.msecnd.net
+DOMAIN-SUFFIX,xp.apple.com
 USER-AGENT,Microsoft*
 USER-AGENT,WeChat*
