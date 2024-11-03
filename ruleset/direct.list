@@ -1,5 +1,6 @@
 DOMAIN,captive.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,discussions.apple.com
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download.developer.apple.com
 DOMAIN,gs-loc-cn.apple.com
@@ -12,6 +13,7 @@ DOMAIN,music.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
+DOMAIN,supportmetrics.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-map.apple.com
