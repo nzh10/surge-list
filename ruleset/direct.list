@@ -1,10 +1,13 @@
 DOMAIN,captive.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,detectportal.brave-http-only.com
 DOMAIN,discussions.apple.com
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download.developer.apple.com
+DOMAIN,gdmf.apple.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
+DOMAIN,gsa.apple.com
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
@@ -13,6 +16,10 @@ DOMAIN,music.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
+DOMAIN,p71-caldav.icloud.com
+DOMAIN,securemetrics.apple.com
+DOMAIN,setup.icloud.com
+DOMAIN,stocks-data-service.apple.com
 DOMAIN,supportmetrics.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,weather-data.apple.com
