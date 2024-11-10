@@ -21,6 +21,7 @@ DOMAIN,securemetrics.apple.com
 DOMAIN,setup.icloud.com
 DOMAIN,stocks-data-service.apple.com
 DOMAIN,supportmetrics.apple.com
+DOMAIN,upkit.qianji.app
 DOMAIN,valid.apple.com
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-map.apple.com
@@ -75,5 +76,6 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,store.apple.com
 DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-WILDCARD,p71-fm*.icloud.com
 USER-AGENT,Microsoft*
 USER-AGENT,WeChat*
