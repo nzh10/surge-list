@@ -1,3 +1,4 @@
+DOMAIN,calendar.apple.com
 DOMAIN,captive.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,detectportal.brave-http-only.com
@@ -8,6 +9,7 @@ DOMAIN,gdmf.apple.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,gsa.apple.com
+DOMAIN,gsas.apple.com
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
@@ -15,18 +17,20 @@ DOMAIN,metrics.icloud.com
 DOMAIN,music.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
+DOMAIN,ontology.health.apple.com
 DOMAIN,oscdn.apple.com
+DOMAIN,p156-quota.icloud.com
+DOMAIN,p164-availability.icloud.com
 DOMAIN,p71-caldav.icloud.com
+DOMAIN,p71-contacts.icloud.com
+DOMAIN,p71-mcc.icloud.com
+DOMAIN,profile.gc.apple.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,setup.icloud.com
 DOMAIN,stocks-data-service.apple.com
 DOMAIN,supportmetrics.apple.com
 DOMAIN,upkit.qianji.app
 DOMAIN,valid.apple.com
-DOMAIN,weather-data.apple.com
-DOMAIN,weather-map.apple.com
-DOMAIN,weather-map2.apple.com
-DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidu
@@ -77,5 +81,6 @@ DOMAIN-SUFFIX,store.apple.com
 DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-WILDCARD,p71-fm*.icloud.com
+DOMAIN-WILDCARD,weather*.apple.com
 USER-AGENT,Microsoft*
 USER-AGENT,WeChat*
