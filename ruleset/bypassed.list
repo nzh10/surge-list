@@ -1,5 +1,8 @@
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,in.appcenter.ms
 DOMAIN,podcasts.apple.com
 DOMAIN,storage.live.com
+DOMAIN,update.code.visualstudio.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
@@ -20,13 +23,16 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,maj-soul.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,washingtonpost.com
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*

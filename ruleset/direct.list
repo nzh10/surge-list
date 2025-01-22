@@ -44,6 +44,7 @@ DOMAIN-KEYWORD,msn
 DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,qq
+DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,skype
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,visualstudio
@@ -51,6 +52,7 @@ DOMAIN-KEYWORD,vscode
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,windows
 DOMAIN-KEYWORD,xbox
+DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -60,6 +62,7 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apps.apple.com
@@ -75,6 +78,7 @@ DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,qianji.app
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,store.apple.com
