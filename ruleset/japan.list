@@ -1,5 +1,3 @@
-DOMAIN,api-push.open.yo-star.com
-DOMAIN,www.blhxstatic.yo-star.com
 DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,pximg
 DOMAIN-SUFFIX,azurlane.jp
@@ -7,3 +5,7 @@ DOMAIN-SUFFIX,bluearchiveyostar.com
 DOMAIN-SUFFIX,eplus.jp
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostarplat.com
+DOMAIN,api-push.open.yo-star.com
+DOMAIN,www.blhxstatic.yo-star.com
