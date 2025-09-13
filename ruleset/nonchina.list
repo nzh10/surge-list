@@ -1,3 +1,8 @@
+DOMAIN,apple-relay.apple.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,privacy-gateway.cloudflare.com
+DOMAIN,proxy.safebrowsering.apple
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,cici
 DOMAIN-KEYWORD,gemini
@@ -21,11 +26,6 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN,apple-relay.apple.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,mask-h2.icloud.com
-DOMAIN,privacy-gateway.cloudflare.com
-DOMAIN,proxy.safebrowsering.apple
 IP-ASN,20473,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
