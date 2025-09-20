@@ -22,7 +22,6 @@ DOMAIN,supportmetrics.apple.com
 DOMAIN,tracker.m-team.cc
 DOMAIN,upkit.qianji.app
 DOMAIN,valid.apple.com
-DOMAIN,websitereview.corp.apple.com
 DOMAIN,www.apple.com
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidu
@@ -59,6 +58,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,bugsnag.com
@@ -66,7 +66,9 @@ DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cncnet.org
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamesurge.net
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,kurobbs.com
@@ -96,6 +98,7 @@ DOMAIN-WILDCARD,gdmf*.apple.com
 DOMAIN-WILDCARD,gs-loc*.apple.com
 DOMAIN-WILDCARD,mask*.icloud.com
 DOMAIN-WILDCARD,ocsp*.apple.com
+DOMAIN-WILDCARD,oss-cn-*.aliyuncs.com
 DOMAIN-WILDCARD,p*-availability.icloud.com
 DOMAIN-WILDCARD,p*-caldav.icloud.com
 DOMAIN-WILDCARD,p*-contacts.icloud.com

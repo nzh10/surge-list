@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,licdn
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,onenote
@@ -27,6 +26,7 @@ DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,maj-soul.com
 DOMAIN-SUFFIX,oculus.com
