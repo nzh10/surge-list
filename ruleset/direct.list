@@ -6,6 +6,8 @@ DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download.developer.apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,gsas.apple.com
+DOMAIN,help.apple.com
+DOMAIN,humb.apple.com
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
@@ -14,6 +16,7 @@ DOMAIN,metrics.icloud.com
 DOMAIN,music.apple.com
 DOMAIN,ontology.health.apple.com
 DOMAIN,oscdn.apple.com
+DOMAIN,pba.apple.com
 DOMAIN,profile.gc.apple.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,setup.icloud.com
@@ -28,17 +31,19 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,dianping
 DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,feishu
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,kuaishou
+DOMAIN-KEYWORD,larkoffice
 DOMAIN-KEYWORD,meituan
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,msft
 DOMAIN-KEYWORD,msn
-DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,qq
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,visualstudio
 DOMAIN-KEYWORD,vscode
@@ -62,6 +67,7 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,cdn-apple.com
@@ -84,6 +90,7 @@ DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,pcms.apple.com
 DOMAIN-SUFFIX,qianji.app
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
@@ -93,6 +100,7 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-WILDCARD,*submissions.apple.com
 DOMAIN-WILDCARD,calendar*.apple.com
 DOMAIN-WILDCARD,gdmf*.apple.com
 DOMAIN-WILDCARD,gs-loc*.apple.com

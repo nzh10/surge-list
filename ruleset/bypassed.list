@@ -5,6 +5,7 @@ DOMAIN,storage.live.com
 DOMAIN,update.code.visualstudio.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,gmail
@@ -15,6 +16,7 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,onenote
 DOMAIN-KEYWORD,sharepoint
 DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,ampproject.org
