@@ -16,13 +16,17 @@ DOMAIN,metrics.icloud.com
 DOMAIN,music.apple.com
 DOMAIN,ontology.health.apple.com
 DOMAIN,oscdn.apple.com
+DOMAIN,oser.ns.aliyuncs.com
 DOMAIN,pba.apple.com
 DOMAIN,profile.gc.apple.com
 DOMAIN,securemetrics.apple.com
+DOMAIN,serverstatus.apple.com
 DOMAIN,setup.icloud.com
 DOMAIN,stocks-data-service.apple.com
 DOMAIN,supportmetrics.apple.com
+DOMAIN,tbsc.apple.com
 DOMAIN,tracker.m-team.cc
+DOMAIN,unlinkability.apple.com
 DOMAIN,upkit.qianji.app
 DOMAIN,valid.apple.com
 DOMAIN,www.apple.com
@@ -77,6 +81,7 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gamesurge.net
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,kurobbs.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -89,11 +94,13 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,pcms.apple.com
 DOMAIN-SUFFIX,qianji.app
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,store.apple.com
 DOMAIN-SUFFIX,synology.com
@@ -113,6 +120,7 @@ DOMAIN-WILDCARD,p*-contacts.icloud.com
 DOMAIN-WILDCARD,p*-mcc.icloud.com
 DOMAIN-WILDCARD,p*-quota.icloud.com
 DOMAIN-WILDCARD,p71-fm*.icloud.com
+DOMAIN-WILDCARD,pr-pod9-smp-device*.apple.com
 DOMAIN-WILDCARD,time*.apple.com
 DOMAIN-WILDCARD,weather*.apple.com
 USER-AGENT,Microsoft*
