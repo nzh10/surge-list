@@ -35,9 +35,11 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,wise.com
 DOMAIN-WILDCARD,s3-us-*.amazonaws.com
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
