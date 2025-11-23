@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
@@ -21,6 +22,7 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,githubusercontent.com

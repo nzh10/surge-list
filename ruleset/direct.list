@@ -1,3 +1,5 @@
+DOMAIN,api.apple-cloudkit.com
+DOMAIN,bpapi.apple.com
 DOMAIN,captive.apple.com
 DOMAIN,detectportal.brave-http-only.com
 DOMAIN,discussions.apple.com
@@ -12,6 +14,7 @@ DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,known-issues.apple.com
 DOMAIN,music.apple.com
+DOMAIN,ondevice-agreements.apple.com
 DOMAIN,ontology.health.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oser.ns.aliyuncs.com
@@ -27,6 +30,7 @@ DOMAIN,tracker.m-team.cc
 DOMAIN,unlinkability.apple.com
 DOMAIN,upkit.qianji.app
 DOMAIN,valid.apple.com
+DOMAIN,wps.apple.com
 DOMAIN,www.apple.com
 DOMAIN-KEYWORD,21vbluecloud
 DOMAIN-KEYWORD,alipay
@@ -67,6 +71,7 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedapm.com
@@ -82,6 +87,7 @@ DOMAIN-SUFFIX,gamesurge.net
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,hkhkg2.icloud-content.com
 DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,kurobbs.com
@@ -102,6 +108,7 @@ DOMAIN-SUFFIX,pcms.apple.com
 DOMAIN-SUFFIX,qianji.app
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,store.apple.com
@@ -110,8 +117,10 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-WILDCARD,*-bytedance-cn.sentinelone.net
 DOMAIN-WILDCARD,*submissions.apple.com
 DOMAIN-WILDCARD,calendar*.apple.com
+DOMAIN-WILDCARD,calendar*.icloud.com
 DOMAIN-WILDCARD,cn-*.apple.com
 DOMAIN-WILDCARD,gdmf*.apple.com
 DOMAIN-WILDCARD,gs-loc*.apple.com
