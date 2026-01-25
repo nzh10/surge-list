@@ -1,5 +1,9 @@
+DOMAIN,apidns-js.kwd.inkuai.com
+DOMAIN,hdns.ksyun.com
+DOMAIN,paydns.wechatpay.cn
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,us.telemetry.zoom.us

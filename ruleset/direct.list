@@ -10,6 +10,7 @@ DOMAIN,gsas.apple.com
 DOMAIN,help.apple.com
 DOMAIN,humb.apple.com
 DOMAIN,icloud.cdn-apple.com
+DOMAIN,idmsa.apple.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,known-issues.apple.com
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteintlstatic.com
@@ -105,6 +107,7 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,pcms.apple.com
+DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,qianji.app
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
@@ -113,6 +116,7 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,store.apple.com
 DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,xp.apple.com
@@ -138,5 +142,6 @@ DOMAIN-WILDCARD,p*-quota.icloud.com
 DOMAIN-WILDCARD,pr-pod9-smp-device*.apple.com
 DOMAIN-WILDCARD,time*.apple.com
 DOMAIN-WILDCARD,weather*.apple.com
+PROCESS-NAME,/usr/libexec/timed
 USER-AGENT,Microsoft*
 USER-AGENT,WeChat*
