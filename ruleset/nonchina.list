@@ -1,10 +1,14 @@
+DOMAIN,api.autocode.space
 DOMAIN,apple-relay.apple.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,privacy-gateway.cloudflare.com
 DOMAIN,proxy.safebrowsering.apple
+DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,cici
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,tiktok
@@ -25,6 +29,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
