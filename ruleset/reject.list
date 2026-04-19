@@ -1,6 +1,11 @@
 DOMAIN,apidns-js.kwd.inkuai.com
+DOMAIN,appcloud.zhihu.com
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,crash2.zhihu.com
 DOMAIN,hdns.ksyun.com
+DOMAIN,mqtt.zhihu.com
 DOMAIN,paydns.wechatpay.cn
+DOMAIN,sugar.zhihu.com
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,httpdns.pro
@@ -8,3 +13,7 @@ DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,us.telemetry.zoom.us
 DOMAIN-WILDCARD,stun*.chat.bilibili.com
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v2\?
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?
