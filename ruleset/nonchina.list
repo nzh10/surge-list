@@ -1,8 +1,6 @@
 DOMAIN,api.autocode.space
-DOMAIN,apple-relay.apple.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,privacy-gateway.cloudflare.com
-DOMAIN,proxy.safebrowsering.apple
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,anthropic
@@ -52,7 +50,6 @@ DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,angulardart.org
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.statsig.com
-DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement-cn.com
@@ -61,14 +58,10 @@ DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,appbridge.ca
 DOMAIN-SUFFIX,appbridge.io
 DOMAIN-SUFFIX,appbridge.it
-DOMAIN-SUFFIX,apple-ready.fastly-edge.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apps5.oingo.com
 DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,asp-cc.com
-DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,bandpage.com
@@ -164,7 +157,6 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,gateway.dev
-DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,gcp.gvt2.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gerritcodereview.com
@@ -195,12 +187,10 @@ DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gridaware.app
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,gstatic-cn.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gsuite.com
-DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1-cn.com
@@ -220,7 +210,6 @@ DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,iam.soy
 DOMAIN-SUFFIX,iamremarkable.org
-DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,impermium.com
 DOMAIN-SUFFIX,intercom.io
@@ -314,7 +303,6 @@ DOMAIN-SUFFIX,screenwisetrendspanel.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,solveforx.com
 DOMAIN-SUFFIX,stadia.dev
