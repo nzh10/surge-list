@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,eplus.jp
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yostarplat.com
+DOMAIN-WILDCARD,prod-jp-*-a.*.dnse0.com
+DOMAIN-SUFFIX,rada.gov.ua
+DOMAIN-KEYWORD,ippure

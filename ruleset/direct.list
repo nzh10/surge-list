@@ -233,3 +233,9 @@ PROCESS-NAME,/System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/
 PROCESS-NAME,/usr/libexec/timed
 USER-AGENT,Microsoft*
 USER-AGENT,WeChat*
+DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,pixcakeai.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,kurogame-service.xyz
+DOMAIN,sdk.open.talk.getui.net
+DOMAIN,cn.pool.ntp.org
