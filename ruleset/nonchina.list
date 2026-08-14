@@ -413,3 +413,7 @@ DOMAIN-SUFFIX,protechts.net
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,gist.build
+# --- AI 静态 CDN（走 smart 快路，不锁 US）---
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
