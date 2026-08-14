@@ -239,3 +239,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,kurogame-service.xyz
 DOMAIN,sdk.open.talk.getui.net
 DOMAIN,cn.pool.ntp.org
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,npmmirror.com

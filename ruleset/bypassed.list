@@ -33,7 +33,6 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,nicegram
@@ -338,7 +337,6 @@ DOMAIN-SUFFIX,gameon-masters.com
 DOMAIN-SUFFIX,gardenparty.me
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gdansk-amazon.com
-DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getsync.com
@@ -357,7 +355,6 @@ DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,goog
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gravatar.com
@@ -712,3 +709,4 @@ USER-AGENT,InstantVideo.US*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 USER-AGENT,Prime%20Video*
+

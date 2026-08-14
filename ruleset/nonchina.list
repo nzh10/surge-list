@@ -391,3 +391,17 @@ PROCESS-NAME,com.google.android.play.games
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,deepai.org
+DOMAIN-SUFFIX,copilot.microsoft.com
