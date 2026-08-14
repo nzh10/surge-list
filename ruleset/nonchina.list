@@ -417,3 +417,9 @@ DOMAIN-SUFFIX,gist.build
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,registry.docker.io
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,production.cloudflare.docker.com
+DOMAIN-SUFFIX,formulae.brew.sh

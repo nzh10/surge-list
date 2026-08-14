@@ -710,3 +710,4 @@ USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 USER-AGENT,Prime%20Video*
 
+DOMAIN-SUFFIX,ghcr.io

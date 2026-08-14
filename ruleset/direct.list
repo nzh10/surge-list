@@ -245,3 +245,18 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zijieapi.com
+# --- 包管理器官方源（Fastly/Cloudflare anycast，自动路由近节点，直连）---
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,registry.npmjs.org
+DOMAIN-SUFFIX,registry.yarnpkg.com
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,deno.land
+DOMAIN-SUFFIX,jsr.io
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,static.crates.io
+# --- 国内镜像域名（配了镜像后直连镜像）---
+DOMAIN-SUFFIX,goproxy.cn
+DOMAIN-SUFFIX,mirrors.tuna.tsinghua.edu.cn
+DOMAIN-SUFFIX,mirrors.ustc.edu.cn
+DOMAIN-SUFFIX,mirrors.aliyun.com
