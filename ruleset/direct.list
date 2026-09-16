@@ -37,10 +37,7 @@ DOMAIN,outlook.office365.com
 DOMAIN,pba.apple.com
 DOMAIN,profile.gc.apple.com
 DOMAIN,pvgwifi.airport.wiwide.com
-DOMAIN,safebrowsing-cache.google.com
-DOMAIN,safebrowsing.clients.google.com
 DOMAIN,safebrowsing.googleapis-cn.com
-DOMAIN,safebrowsing.googleapis.com
 DOMAIN,serverstatus.apple.com
 DOMAIN,setup.icloud.com
 DOMAIN,sms.imagetasks.com
@@ -97,7 +94,6 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,azure.com

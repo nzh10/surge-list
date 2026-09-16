@@ -18,3 +18,15 @@ URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v2\?
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?
 URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?
 DOMAIN,tconf.f.360.cn
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+DOMAIN-SUFFIX,securemetrics.apple.com
+DOMAIN-SUFFIX,supportmetrics.apple.com
+DOMAIN-SUFFIX,books-analytics-events.apple.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,app-analytics-services-att.com
+DOMAIN-SUFFIX,etrack05.com
+DOMAIN-SUFFIX,userreport.com
+DOMAIN-SUFFIX,mavrtracktor.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,ademon.net
