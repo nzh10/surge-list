@@ -659,3 +659,7 @@ USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 USER-AGENT,Prime%20Video*
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN,dl.google.com

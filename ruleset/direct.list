@@ -237,13 +237,10 @@ DOMAIN,sdk.open.talk.getui.net
 DOMAIN,cn.pool.ntp.org
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zijieapi.com
 # --- 包管理器官方源（Fastly/Cloudflare anycast，自动路由近节点，直连）---
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,registry.npmjs.org
 DOMAIN-SUFFIX,registry.yarnpkg.com
 DOMAIN-SUFFIX,rubygems.org
@@ -257,3 +254,9 @@ DOMAIN-SUFFIX,mirrors.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,mirrors.ustc.edu.cn
 DOMAIN-SUFFIX,mirrors.aliyun.com
 DOMAIN-SUFFIX,mirrors.huaweicloud.com
+DOMAIN-SUFFIX,aki-game.net
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,listdl.com
+DOMAIN,gf2-asia-cdn.17996cdn.com
